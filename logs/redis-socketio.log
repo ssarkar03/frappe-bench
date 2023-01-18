@@ -1,0 +1,44 @@
+3128:C 17 Jan 2023 12:11:03.340 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+3128:C 17 Jan 2023 12:11:03.340 # Redis version=6.0.16, bits=64, commit=00000000, modified=0, pid=3128, just started
+3128:C 17 Jan 2023 12:11:03.340 # Configuration loaded
+3128:M 17 Jan 2023 12:11:03.340 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+3128:M 17 Jan 2023 12:11:03.376 * Running mode=standalone, port=12000.
+3128:M 17 Jan 2023 12:11:03.376 # Server initialized
+3128:M 17 Jan 2023 12:11:03.376 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+3128:M 17 Jan 2023 12:11:03.377 * Ready to accept connections
+3128:signal-handler (1674014515) Received SIGTERM scheduling shutdown...
+3128:M 18 Jan 2023 04:01:55.737 # User requested shutdown...
+3128:M 18 Jan 2023 04:01:55.738 * Removing the pid file.
+3128:M 18 Jan 2023 04:01:55.739 # Redis is now ready to exit, bye bye...
+788:C 18 Jan 2023 04:03:25.541 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+788:C 18 Jan 2023 04:03:25.541 # Redis version=6.0.16, bits=64, commit=00000000, modified=0, pid=788, just started
+788:C 18 Jan 2023 04:03:25.541 # Configuration loaded
+788:M 18 Jan 2023 04:03:25.551 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+788:M 18 Jan 2023 04:03:25.552 * Running mode=standalone, port=12000.
+788:M 18 Jan 2023 04:03:25.552 # Server initialized
+788:M 18 Jan 2023 04:03:25.552 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+788:M 18 Jan 2023 04:03:25.587 * Ready to accept connections
+788:signal-handler (1674015090) Received SIGTERM scheduling shutdown...
+788:M 18 Jan 2023 04:11:30.834 # User requested shutdown...
+788:M 18 Jan 2023 04:11:30.834 * Removing the pid file.
+788:M 18 Jan 2023 04:11:30.835 # Redis is now ready to exit, bye bye...
+1526:C 18 Jan 2023 04:11:32.189 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1526:C 18 Jan 2023 04:11:32.189 # Redis version=6.0.16, bits=64, commit=00000000, modified=0, pid=1526, just started
+1526:C 18 Jan 2023 04:11:32.189 # Configuration loaded
+1526:M 18 Jan 2023 04:11:32.189 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1526:M 18 Jan 2023 04:11:32.190 * Running mode=standalone, port=12000.
+1526:M 18 Jan 2023 04:11:32.190 # Server initialized
+1526:M 18 Jan 2023 04:11:32.190 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1526:M 18 Jan 2023 04:11:32.202 * Ready to accept connections
+1526:signal-handler (1674015584) Received SIGTERM scheduling shutdown...
+1526:M 18 Jan 2023 04:19:44.860 # User requested shutdown...
+1526:M 18 Jan 2023 04:19:44.860 * Removing the pid file.
+1526:M 18 Jan 2023 04:19:44.860 # Redis is now ready to exit, bye bye...
+772:C 18 Jan 2023 04:20:57.863 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+772:C 18 Jan 2023 04:20:57.863 # Redis version=6.0.16, bits=64, commit=00000000, modified=0, pid=772, just started
+772:C 18 Jan 2023 04:20:57.863 # Configuration loaded
+772:M 18 Jan 2023 04:20:57.865 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+772:M 18 Jan 2023 04:20:57.899 * Running mode=standalone, port=12000.
+772:M 18 Jan 2023 04:20:57.899 # Server initialized
+772:M 18 Jan 2023 04:20:57.899 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+772:M 18 Jan 2023 04:20:57.908 * Ready to accept connections

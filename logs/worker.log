@@ -1,0 +1,297 @@
+10:21:15 Worker rq:worker:4a900656eb604517afa8927ec58f1579.ip-172-31-0-22.11455.home-ubuntu-frappe-bench:long: started, version 1.11.1
+10:21:15 Subscribing to channel rq:pubsub:4a900656eb604517afa8927ec58f1579.ip-172-31-0-22.11455.home-ubuntu-frappe-bench:long
+10:21:15 Worker rq:worker:7aed5d79eafe40ac9b39727e75bb2c03.ip-172-31-0-22.11453.home-ubuntu-frappe-bench:short: started, version 1.11.1
+10:21:15 Subscribing to channel rq:pubsub:7aed5d79eafe40ac9b39727e75bb2c03.ip-172-31-0-22.11453.home-ubuntu-frappe-bench:short
+10:21:15 *** Listening on home-ubuntu-frappe-bench:long...
+10:21:15 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+10:21:15 *** Listening on home-ubuntu-frappe-bench:short...
+10:21:15 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+10:21:15 Worker rq:worker:2a4e14748c26489abe9a4b6c53d19f7b.ip-172-31-0-22.11457.home-ubuntu-frappe-bench:default: started, version 1.11.1
+10:21:15 Subscribing to channel rq:pubsub:2a4e14748c26489abe9a4b6c53d19f7b.ip-172-31-0-22.11457.home-ubuntu-frappe-bench:default
+10:21:15 *** Listening on home-ubuntu-frappe-bench:default...
+10:21:15 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+10:21:36 Warm shut down requested
+10:21:36 Warm shut down requested
+10:21:36 Warm shut down requested
+10:51:31 Worker rq:worker:f4259134cd65487ea1b57167f074f1dd.ip-172-31-0-22.13202.home-ubuntu-frappe-bench:long: started, version 1.11.1
+10:51:31 Subscribing to channel rq:pubsub:f4259134cd65487ea1b57167f074f1dd.ip-172-31-0-22.13202.home-ubuntu-frappe-bench:long
+10:51:31 Worker rq:worker:382be4aa77064e729ab99b5b86356d76.ip-172-31-0-22.13203.home-ubuntu-frappe-bench:default: started, version 1.11.1
+10:51:31 Subscribing to channel rq:pubsub:382be4aa77064e729ab99b5b86356d76.ip-172-31-0-22.13203.home-ubuntu-frappe-bench:default
+10:51:31 *** Listening on home-ubuntu-frappe-bench:long...
+10:51:31 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+10:51:31 *** Listening on home-ubuntu-frappe-bench:default...
+10:51:31 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+10:51:31 Worker rq:worker:7a925e43a83f4768977dcd4ac701d956.ip-172-31-0-22.13201.home-ubuntu-frappe-bench:short: started, version 1.11.1
+10:51:31 Subscribing to channel rq:pubsub:7a925e43a83f4768977dcd4ac701d956.ip-172-31-0-22.13201.home-ubuntu-frappe-bench:short
+10:51:31 *** Listening on home-ubuntu-frappe-bench:short...
+10:51:31 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+11:25:22 Worker rq:worker:69eb0ef5741d42869cca9cec40064685.ip-172-31-0-22.1266.home-ubuntu-frappe-bench:default: started, version 1.11.1
+11:25:22 Subscribing to channel rq:pubsub:69eb0ef5741d42869cca9cec40064685.ip-172-31-0-22.1266.home-ubuntu-frappe-bench:default
+11:25:22 Worker rq:worker:b81377d616364553b28b862a8284e4d4.ip-172-31-0-22.1262.home-ubuntu-frappe-bench:short: started, version 1.11.1
+11:25:22 Subscribing to channel rq:pubsub:b81377d616364553b28b862a8284e4d4.ip-172-31-0-22.1262.home-ubuntu-frappe-bench:short
+11:25:22 Worker rq:worker:3a651548cc6e4a49acd3c9c262841d31.ip-172-31-0-22.1264.home-ubuntu-frappe-bench:long: started, version 1.11.1
+11:25:22 Subscribing to channel rq:pubsub:3a651548cc6e4a49acd3c9c262841d31.ip-172-31-0-22.1264.home-ubuntu-frappe-bench:long
+11:25:22 *** Listening on home-ubuntu-frappe-bench:default...
+11:25:22 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+11:25:22 *** Listening on home-ubuntu-frappe-bench:long...
+11:25:22 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+11:25:22 *** Listening on home-ubuntu-frappe-bench:short...
+11:25:22 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+11:33:21 Warm shut down requested
+11:33:21 Warm shut down requested
+11:33:21 Warm shut down requested
+11:45:33 Worker rq:worker:9ae2410d2c864ce98a5f4e74c2daa1c1.ip-172-31-0-22.1937.home-ubuntu-frappe-bench:short: started, version 1.11.1
+11:45:33 Subscribing to channel rq:pubsub:9ae2410d2c864ce98a5f4e74c2daa1c1.ip-172-31-0-22.1937.home-ubuntu-frappe-bench:short
+11:45:33 Worker rq:worker:b0488ffdafe04e7d8ad6a09dde1fe3d3.ip-172-31-0-22.1939.home-ubuntu-frappe-bench:long: started, version 1.11.1
+11:45:33 Subscribing to channel rq:pubsub:b0488ffdafe04e7d8ad6a09dde1fe3d3.ip-172-31-0-22.1939.home-ubuntu-frappe-bench:long
+11:45:33 Worker rq:worker:e753e746e6ec4f20b5902ca1fa6ef98d.ip-172-31-0-22.1941.home-ubuntu-frappe-bench:default: started, version 1.11.1
+11:45:33 Subscribing to channel rq:pubsub:e753e746e6ec4f20b5902ca1fa6ef98d.ip-172-31-0-22.1941.home-ubuntu-frappe-bench:default
+11:45:33 *** Listening on home-ubuntu-frappe-bench:default...
+11:45:33 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+11:45:33 *** Listening on home-ubuntu-frappe-bench:long...
+11:45:33 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+11:45:33 *** Listening on home-ubuntu-frappe-bench:short...
+11:45:33 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+11:53:02 Warm shut down requested
+11:53:02 Warm shut down requested
+11:53:02 Warm shut down requested
+12:11:07 Worker rq:worker:908036f4048a43949d011353d301c358.ip-172-31-0-22.3132.home-ubuntu-frappe-bench:default: started, version 1.11.1
+12:11:07 Worker rq:worker:3b67cefc5d2a475eb670f33110ee063d.ip-172-31-0-22.3137.home-ubuntu-frappe-bench:long: started, version 1.11.1
+12:11:07 Subscribing to channel rq:pubsub:908036f4048a43949d011353d301c358.ip-172-31-0-22.3132.home-ubuntu-frappe-bench:default
+12:11:07 Subscribing to channel rq:pubsub:3b67cefc5d2a475eb670f33110ee063d.ip-172-31-0-22.3137.home-ubuntu-frappe-bench:long
+12:11:07 *** Listening on home-ubuntu-frappe-bench:long...
+12:11:07 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+12:11:07 *** Listening on home-ubuntu-frappe-bench:default...
+12:11:07 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+12:11:08 Worker rq:worker:8946f3525bff4f1c9cd6481f3a0fead0.ip-172-31-0-22.3136.home-ubuntu-frappe-bench:short: started, version 1.11.1
+12:11:08 Subscribing to channel rq:pubsub:8946f3525bff4f1c9cd6481f3a0fead0.ip-172-31-0-22.3136.home-ubuntu-frappe-bench:short
+12:11:08 *** Listening on home-ubuntu-frappe-bench:short...
+12:11:08 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+12:11:09 Warm shut down requested
+12:11:09 Unsubscribing from channel rq:pubsub:908036f4048a43949d011353d301c358.ip-172-31-0-22.3132.home-ubuntu-frappe-bench:default
+12:11:09 Warm shut down requested
+12:11:09 Unsubscribing from channel rq:pubsub:8946f3525bff4f1c9cd6481f3a0fead0.ip-172-31-0-22.3136.home-ubuntu-frappe-bench:short
+12:11:09 Warm shut down requested
+12:11:09 Unsubscribing from channel rq:pubsub:3b67cefc5d2a475eb670f33110ee063d.ip-172-31-0-22.3137.home-ubuntu-frappe-bench:long
+12:11:16 Worker rq:worker:83e760dba29f4f1e8b19b57b21cd555a.ip-172-31-0-22.3204.home-ubuntu-frappe-bench:short: started, version 1.11.1
+12:11:16 Subscribing to channel rq:pubsub:83e760dba29f4f1e8b19b57b21cd555a.ip-172-31-0-22.3204.home-ubuntu-frappe-bench:short
+12:11:16 Worker rq:worker:a8b3fbc37c8c45768995d0e6ffbb7754.ip-172-31-0-22.3203.home-ubuntu-frappe-bench:default: started, version 1.11.1
+12:11:16 Subscribing to channel rq:pubsub:a8b3fbc37c8c45768995d0e6ffbb7754.ip-172-31-0-22.3203.home-ubuntu-frappe-bench:default
+12:11:16 *** Listening on home-ubuntu-frappe-bench:short...
+12:11:16 *** Listening on home-ubuntu-frappe-bench:default...
+12:11:16 Worker rq:worker:1b3bd2bc5c3c491ab6cac6832483b385.ip-172-31-0-22.3205.home-ubuntu-frappe-bench:long: started, version 1.11.1
+12:11:16 Subscribing to channel rq:pubsub:1b3bd2bc5c3c491ab6cac6832483b385.ip-172-31-0-22.3205.home-ubuntu-frappe-bench:long
+12:11:16 *** Listening on home-ubuntu-frappe-bench:long...
+12:24:23 Warm shut down requested
+12:24:23 Warm shut down requested
+12:24:23 Warm shut down requested
+12:24:23 Unsubscribing from channel rq:pubsub:a8b3fbc37c8c45768995d0e6ffbb7754.ip-172-31-0-22.3203.home-ubuntu-frappe-bench:default
+12:24:23 Unsubscribing from channel rq:pubsub:83e760dba29f4f1e8b19b57b21cd555a.ip-172-31-0-22.3204.home-ubuntu-frappe-bench:short
+12:24:23 Unsubscribing from channel rq:pubsub:1b3bd2bc5c3c491ab6cac6832483b385.ip-172-31-0-22.3205.home-ubuntu-frappe-bench:long
+12:24:30 Worker rq:worker:0924103228fe48e297db678d26724798.ip-172-31-0-22.3524.home-ubuntu-frappe-bench:short: started, version 1.11.1
+12:24:30 Worker rq:worker:e98156de4c9e45929963230d4aa601d2.ip-172-31-0-22.3525.home-ubuntu-frappe-bench:long: started, version 1.11.1
+12:24:30 Subscribing to channel rq:pubsub:0924103228fe48e297db678d26724798.ip-172-31-0-22.3524.home-ubuntu-frappe-bench:short
+12:24:30 Subscribing to channel rq:pubsub:e98156de4c9e45929963230d4aa601d2.ip-172-31-0-22.3525.home-ubuntu-frappe-bench:long
+12:24:30 Worker rq:worker:37df21d79d3b44cbb34f34cdaa880cc1.ip-172-31-0-22.3523.home-ubuntu-frappe-bench:default: started, version 1.11.1
+12:24:30 Subscribing to channel rq:pubsub:37df21d79d3b44cbb34f34cdaa880cc1.ip-172-31-0-22.3523.home-ubuntu-frappe-bench:default
+12:24:30 *** Listening on home-ubuntu-frappe-bench:long...
+12:24:30 *** Listening on home-ubuntu-frappe-bench:short...
+12:24:30 *** Listening on home-ubuntu-frappe-bench:default...
+12:38:00 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+12:38:00 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+12:38:00 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+13:05:01 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+13:05:01 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+13:05:01 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+13:32:01 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+13:32:01 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+13:32:01 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+13:59:01 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+13:59:01 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+13:59:01 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+14:26:01 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+14:26:01 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+14:26:01 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+14:53:01 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+14:53:01 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+14:53:01 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+15:20:01 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+15:20:01 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+15:20:01 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+15:47:02 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+15:47:02 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+15:47:02 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+16:14:02 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+16:14:02 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+16:14:02 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+16:41:02 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+16:41:02 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+16:41:02 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+17:08:02 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+17:08:02 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+17:08:02 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+17:35:02 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+17:35:02 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+17:35:02 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+18:14:26 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+18:15:12 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+18:14:27 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+19:03:31 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+19:03:34 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+19:03:34 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+19:31:16 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+19:31:17 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+19:31:17 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+19:58:16 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+19:58:17 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+19:58:17 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+20:25:16 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+20:25:17 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+20:25:17 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+20:52:16 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+20:52:17 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+20:52:17 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+21:19:16 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+21:19:17 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+21:19:17 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+21:46:16 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+21:46:17 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+21:46:17 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+22:13:16 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+22:13:18 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+22:13:18 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+22:40:16 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+22:40:18 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+22:40:18 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+23:07:17 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+23:07:18 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+23:07:18 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+23:34:17 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+23:34:18 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+23:34:18 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+00:01:17 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+00:01:18 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+00:01:18 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+00:28:17 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+00:28:18 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+00:28:18 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+00:55:17 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+00:55:19 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+00:55:19 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+01:22:17 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+01:22:19 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+01:22:19 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+01:49:18 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+01:49:19 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+01:49:19 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+02:16:18 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+02:16:19 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+02:16:19 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+02:43:18 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+02:43:19 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+02:43:19 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+03:10:18 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+03:10:19 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+03:10:19 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+03:37:18 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+03:37:19 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+03:37:19 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+04:01:52 Warm shut down requested
+04:01:52 Unsubscribing from channel rq:pubsub:37df21d79d3b44cbb34f34cdaa880cc1.ip-172-31-0-22.3523.home-ubuntu-frappe-bench:default
+04:01:52 Warm shut down requested
+04:01:52 Unsubscribing from channel rq:pubsub:0924103228fe48e297db678d26724798.ip-172-31-0-22.3524.home-ubuntu-frappe-bench:short
+04:01:52 Warm shut down requested
+04:01:52 Unsubscribing from channel rq:pubsub:e98156de4c9e45929963230d4aa601d2.ip-172-31-0-22.3525.home-ubuntu-frappe-bench:long
+04:03:40 Worker rq:worker:ecb93ab49fc94ecfa230043b62dd8531.ip-172-31-0-22.802.home-ubuntu-frappe-bench:long: started, version 1.11.1
+04:03:40 Subscribing to channel rq:pubsub:ecb93ab49fc94ecfa230043b62dd8531.ip-172-31-0-22.802.home-ubuntu-frappe-bench:long
+04:03:40 Worker rq:worker:867741f8d246475cb0daf5980e0b2ca8.ip-172-31-0-22.797.home-ubuntu-frappe-bench:short: started, version 1.11.1
+04:03:40 Subscribing to channel rq:pubsub:867741f8d246475cb0daf5980e0b2ca8.ip-172-31-0-22.797.home-ubuntu-frappe-bench:short
+04:03:40 Worker rq:worker:4ab2101144474482adb8f4bc1ab459b0.ip-172-31-0-22.792.home-ubuntu-frappe-bench:default: started, version 1.11.1
+04:03:40 Subscribing to channel rq:pubsub:4ab2101144474482adb8f4bc1ab459b0.ip-172-31-0-22.792.home-ubuntu-frappe-bench:default
+04:03:40 *** Listening on home-ubuntu-frappe-bench:short...
+04:03:40 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+04:03:40 *** Listening on home-ubuntu-frappe-bench:long...
+04:03:40 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+04:03:40 *** Listening on home-ubuntu-frappe-bench:default...
+04:03:40 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+04:07:47 Warm shut down requested
+04:07:47 Unsubscribing from channel rq:pubsub:4ab2101144474482adb8f4bc1ab459b0.ip-172-31-0-22.792.home-ubuntu-frappe-bench:default
+04:07:47 Warm shut down requested
+04:07:47 Unsubscribing from channel rq:pubsub:867741f8d246475cb0daf5980e0b2ca8.ip-172-31-0-22.797.home-ubuntu-frappe-bench:short
+04:07:47 Warm shut down requested
+04:07:47 Unsubscribing from channel rq:pubsub:ecb93ab49fc94ecfa230043b62dd8531.ip-172-31-0-22.802.home-ubuntu-frappe-bench:long
+04:07:54 Worker rq:worker:6ead6ede439b4b10ba58173ce6b1cc1a.ip-172-31-0-22.1470.home-ubuntu-frappe-bench:default: started, version 1.11.1
+04:07:54 Subscribing to channel rq:pubsub:6ead6ede439b4b10ba58173ce6b1cc1a.ip-172-31-0-22.1470.home-ubuntu-frappe-bench:default
+04:07:54 Worker rq:worker:0a39e9b4d1c54a79911a13435e36d512.ip-172-31-0-22.1471.home-ubuntu-frappe-bench:short: started, version 1.11.1
+04:07:54 Subscribing to channel rq:pubsub:0a39e9b4d1c54a79911a13435e36d512.ip-172-31-0-22.1471.home-ubuntu-frappe-bench:short
+04:07:54 *** Listening on home-ubuntu-frappe-bench:default...
+04:07:54 *** Listening on home-ubuntu-frappe-bench:short...
+04:07:54 Worker rq:worker:bd3fc3bf43f74bbb97abe283216803f2.ip-172-31-0-22.1472.home-ubuntu-frappe-bench:long: started, version 1.11.1
+04:07:54 Subscribing to channel rq:pubsub:bd3fc3bf43f74bbb97abe283216803f2.ip-172-31-0-22.1472.home-ubuntu-frappe-bench:long
+04:07:54 *** Listening on home-ubuntu-frappe-bench:long...
+04:11:27 Warm shut down requested
+04:11:27 Unsubscribing from channel rq:pubsub:6ead6ede439b4b10ba58173ce6b1cc1a.ip-172-31-0-22.1470.home-ubuntu-frappe-bench:default
+04:11:27 Warm shut down requested
+04:11:27 Unsubscribing from channel rq:pubsub:0a39e9b4d1c54a79911a13435e36d512.ip-172-31-0-22.1471.home-ubuntu-frappe-bench:short
+04:11:27 Warm shut down requested
+04:11:27 Unsubscribing from channel rq:pubsub:bd3fc3bf43f74bbb97abe283216803f2.ip-172-31-0-22.1472.home-ubuntu-frappe-bench:long
+04:11:36 Worker rq:worker:325f1ba4cce147ce8ac6e64e71861577.ip-172-31-0-22.1530.home-ubuntu-frappe-bench:default: started, version 1.11.1
+04:11:36 Subscribing to channel rq:pubsub:325f1ba4cce147ce8ac6e64e71861577.ip-172-31-0-22.1530.home-ubuntu-frappe-bench:default
+04:11:36 Worker rq:worker:2fcde3e007124878b8d92b280c656e01.ip-172-31-0-22.1531.home-ubuntu-frappe-bench:short: started, version 1.11.1
+04:11:36 Subscribing to channel rq:pubsub:2fcde3e007124878b8d92b280c656e01.ip-172-31-0-22.1531.home-ubuntu-frappe-bench:short
+04:11:36 *** Listening on home-ubuntu-frappe-bench:default...
+04:11:36 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+04:11:36 *** Listening on home-ubuntu-frappe-bench:short...
+04:11:36 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+04:11:36 Worker rq:worker:f573d1d3819b49378c0148b4cee395b6.ip-172-31-0-22.1539.home-ubuntu-frappe-bench:long: started, version 1.11.1
+04:11:36 Subscribing to channel rq:pubsub:f573d1d3819b49378c0148b4cee395b6.ip-172-31-0-22.1539.home-ubuntu-frappe-bench:long
+04:11:36 *** Listening on home-ubuntu-frappe-bench:long...
+04:11:36 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+04:17:22 Warm shut down requested
+04:17:22 Unsubscribing from channel rq:pubsub:325f1ba4cce147ce8ac6e64e71861577.ip-172-31-0-22.1530.home-ubuntu-frappe-bench:default
+04:17:22 Warm shut down requested
+04:17:22 Unsubscribing from channel rq:pubsub:2fcde3e007124878b8d92b280c656e01.ip-172-31-0-22.1531.home-ubuntu-frappe-bench:short
+04:17:22 Warm shut down requested
+04:17:22 Unsubscribing from channel rq:pubsub:f573d1d3819b49378c0148b4cee395b6.ip-172-31-0-22.1539.home-ubuntu-frappe-bench:long
+04:17:29 Worker rq:worker:432d07755f814d6f94afb2da9ab0962f.ip-172-31-0-22.1636.home-ubuntu-frappe-bench:default: started, version 1.11.1
+04:17:29 Subscribing to channel rq:pubsub:432d07755f814d6f94afb2da9ab0962f.ip-172-31-0-22.1636.home-ubuntu-frappe-bench:default
+04:17:29 *** Listening on home-ubuntu-frappe-bench:default...
+04:17:29 Worker rq:worker:6fd728d086ac44bc9738510d6885d9b8.ip-172-31-0-22.1638.home-ubuntu-frappe-bench:long: started, version 1.11.1
+04:17:29 Subscribing to channel rq:pubsub:6fd728d086ac44bc9738510d6885d9b8.ip-172-31-0-22.1638.home-ubuntu-frappe-bench:long
+04:17:29 *** Listening on home-ubuntu-frappe-bench:long...
+04:17:29 Worker rq:worker:877e52f1000d435fbf193ac6013fcdaf.ip-172-31-0-22.1637.home-ubuntu-frappe-bench:short: started, version 1.11.1
+04:17:29 Subscribing to channel rq:pubsub:877e52f1000d435fbf193ac6013fcdaf.ip-172-31-0-22.1637.home-ubuntu-frappe-bench:short
+04:17:29 *** Listening on home-ubuntu-frappe-bench:short...
+04:19:41 Warm shut down requested
+04:19:41 Unsubscribing from channel rq:pubsub:432d07755f814d6f94afb2da9ab0962f.ip-172-31-0-22.1636.home-ubuntu-frappe-bench:default
+04:19:41 Warm shut down requested
+04:19:41 Unsubscribing from channel rq:pubsub:877e52f1000d435fbf193ac6013fcdaf.ip-172-31-0-22.1637.home-ubuntu-frappe-bench:short
+04:19:41 Warm shut down requested
+04:19:41 Unsubscribing from channel rq:pubsub:6fd728d086ac44bc9738510d6885d9b8.ip-172-31-0-22.1638.home-ubuntu-frappe-bench:long
+04:21:11 Worker rq:worker:bc077cfa228c47938242ea3b8c396acd.ip-172-31-0-22.800.home-ubuntu-frappe-bench:default: started, version 1.11.1
+04:21:11 Subscribing to channel rq:pubsub:bc077cfa228c47938242ea3b8c396acd.ip-172-31-0-22.800.home-ubuntu-frappe-bench:default
+04:21:11 Worker rq:worker:afd84dd71d7e4ece91d1d80c5179ec07.ip-172-31-0-22.805.home-ubuntu-frappe-bench:short: started, version 1.11.1
+04:21:11 Subscribing to channel rq:pubsub:afd84dd71d7e4ece91d1d80c5179ec07.ip-172-31-0-22.805.home-ubuntu-frappe-bench:short
+04:21:12 *** Listening on home-ubuntu-frappe-bench:default...
+04:21:12 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+04:21:12 *** Listening on home-ubuntu-frappe-bench:short...
+04:21:12 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+04:21:12 Worker rq:worker:b8d3e4346ff84e8fbccf6aa793374304.ip-172-31-0-22.810.home-ubuntu-frappe-bench:long: started, version 1.11.1
+04:21:12 Subscribing to channel rq:pubsub:b8d3e4346ff84e8fbccf6aa793374304.ip-172-31-0-22.810.home-ubuntu-frappe-bench:long
+04:21:12 *** Listening on home-ubuntu-frappe-bench:long...
+04:21:12 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+04:48:12 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+04:48:12 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+04:48:12 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+05:15:12 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+05:15:12 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+05:15:12 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+05:42:12 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+05:42:12 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+05:42:12 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+06:09:12 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+06:09:12 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+06:09:12 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+06:36:12 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+06:36:12 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+06:36:12 Cleaning registries for queue: home-ubuntu-frappe-bench:long

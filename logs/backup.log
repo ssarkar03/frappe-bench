@@ -1,0 +1,24 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd2eaf66779c704e -p********** _dd2eaf66779c704e -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./crm.in/private/backups/20230117_173005-crm_in-database.sql.gz
+
+Backup Summary for crm.in at 2023-01-17 17:30:07.680396
+Config  : ./crm.in/private/backups/20230117_173005-crm_in-site_config_backup.json 94.0B
+Database: ./crm.in/private/backups/20230117_173005-crm_in-database.sql.gz         1017.6KiB
+Backup for Site crm.in has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd2eaf66779c704e -p********** _dd2eaf66779c704e -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./crm.in/private/backups/20230118_001913-crm_in-database.sql.gz
+
+Backup Summary for crm.in at 2023-01-18 00:42:19.663992
+Config  : ./crm.in/private/backups/20230118_001913-crm_in-site_config_backup.json 94.0B
+Database: ./crm.in/private/backups/20230118_001913-crm_in-database.sql.gz         1018.0KiB
+Backup for Site crm.in has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd2eaf66779c704e -p********** _dd2eaf66779c704e -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./crm.in/private/backups/20230118_053003-crm_in-database.sql.gz
+
+Backup Summary for crm.in at 2023-01-18 05:30:05.341694
+Config  : ./crm.in/private/backups/20230118_053003-crm_in-site_config_backup.json 94.0B
+Database: ./crm.in/private/backups/20230118_053003-crm_in-database.sql.gz         1018.0KiB
+Backup for Site crm.in has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd2eaf66779c704e -p********** _dd2eaf66779c704e -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./crm.in/private/backups/20230118_113003-crm_in-database.sql.gz
+
+Backup Summary for crm.in at 2023-01-18 11:30:06.163243
+Config  : ./crm.in/private/backups/20230118_113003-crm_in-site_config_backup.json 94.0B
+Database: ./crm.in/private/backups/20230118_113003-crm_in-database.sql.gz         1018.4KiB
+Backup for Site crm.in has been successfully completed
