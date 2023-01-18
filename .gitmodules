@@ -1,9 +1,9 @@
 [submodule "apps/erpnext"]
 	path = apps/erpnext
-	url = https://github.com/ssarkar03/innow8ERP.git
+	url = https://github.com/ssarkar03/frappe-bench.git
 [submodule "apps/frappe"]
 	path = apps/frappe
-	url = https://github.com/ssarkar03/innow8ERP.git
+	url = https://github.com/ssarkar03/frappe-bench.git
 [submodule "apps/payments"]
 	path = apps/payments
-	url = https://github.com/ssarkar03/innow8ERP.git
+	url = https://github.com/ssarkar03/frappe-bench.git
